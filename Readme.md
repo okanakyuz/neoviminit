@@ -4,14 +4,10 @@ A verry simple init.lua file which setups almost everything for developement.
 
 ## Setting up
 
-### Windows
-### Linux
+Just download your nvim initialization folder and open nvim
+## Collobrate
 
-## Packages
-
-## Collobratei
-
-There is nly one rule that you should fallow. "Write everything in init.lua file."
+There is only one rule that you should fallow. "Write everything in init.lua file."
 ## License
 
 The ISC License (ISC)
